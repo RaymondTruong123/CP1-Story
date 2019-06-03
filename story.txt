@@ -4,6 +4,7 @@ I ate cereal with milk.
 I grow old
 Told to add something in the middle
 I get sick
+I have made a meaninful commit message
 I become invincible
 I am God
 but eventually we all die
